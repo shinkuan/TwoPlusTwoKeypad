@@ -51,7 +51,7 @@ After you done the above, check you should have these things:
   * Right Bottom
   * Right Top
 * 1 FPC connector
-* 8 M2*8 screw, 8 M2*4 Coppor Pillars
+* 8 M2\*8 screw, 8 M2\*4 Coppor Pillars
 * 4 Switches
 
 Now Assemble them!
